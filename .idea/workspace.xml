@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e5944c23-2f9e-4f34-85a4-f82d3b875a6d" name="Changes" comment="fix: conversando com geral" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kaiquemotta&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="10c32c94-e65c-480b-acbb-91ed1fdf937e" />
+        <option name="url" value="https://github.com/thiagotobias/reservasDeViagens.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2Xd1JM1WYD3wpOttuBn4SreHXO2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kaiqu/OneDrive/Documentos/curso-ada/reservasDeViagens&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.reserva.stock.adapters.out.repository" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.reserva.stock.adapters.in" />
+      <recent name="br.com.reservasDeViagensFinanceiro.rabbitmq.producer" />
+      <recent name="com.reserva.stock.exception" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ReservasDeViagensFinanceiroApplication">
+    <configuration name="All in reservasDeViagensInventario" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reservasDeViagensInventario" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppBookingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="reservasDeViagensReservas" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.reserva.booking.AppBookingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppStockApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="reservasDeViagensInventario" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.reserva.stock.AppStockApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.reserva.stock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReservasDeViagensFinanceiroApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="reservasDeViagensFinanceiro" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.reservasDeViagensFinanceiro.ReservasDeViagensFinanceiroApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReservasDeViagensServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="reservasDeViagensServer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.reservasDeViagensServer.ReservasDeViagensServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReservasDeViagensUsuariosApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="reservasDeViagensUsuarios" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.reservasDeViagensUsuarios.ReservasDeViagensUsuariosApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.AppStockApplication" />
+        <item itemvalue="JUnit.All in reservasDeViagensInventario" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5944c23-2f9e-4f34-85a4-f82d3b875a6d" name="Changes" comment="" />
+      <created>1698944071605</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698944071605</updated>
+      <workItem from="1698944073856" duration="641000" />
+      <workItem from="1698944856466" duration="9548000" />
+      <workItem from="1699120805509" duration="21245000" />
+      <workItem from="1699317996835" duration="27487000" />
+      <workItem from="1699479261401" duration="1770000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat: add config inicial projeto">
+      <option name="closed" value="true" />
+      <created>1698949632688</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698949632688</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: config">
+      <option name="closed" value="true" />
+      <created>1698949655249</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698949655249</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: config">
+      <option name="closed" value="true" />
+      <created>1698950757110</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698950757110</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: config repository">
+      <option name="closed" value="true" />
+      <created>1699025056931</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699025056931</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: config properties">
+      <option name="closed" value="true" />
+      <created>1699025132572</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1699025132572</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat: init dev Get produtos">
+      <option name="closed" value="true" />
+      <created>1699123497072</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1699123497072</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat: init cache redis">
+      <option name="closed" value="true" />
+      <created>1699126319411</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1699126319411</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fix: desc cache">
+      <option name="closed" value="true" />
+      <created>1699126589760</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1699126589760</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fix: add value product">
+      <option name="closed" value="true" />
+      <created>1699130813391</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1699130813391</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fix: add value product">
+      <option name="closed" value="true" />
+      <created>1699130837713</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1699130837713</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fix: save reserva">
+      <option name="closed" value="true" />
+      <created>1699135543730</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1699135543730</updated>
+    </task>
+    <task id="LOCAL-00012" summary="feat: config queue payment">
+      <option name="closed" value="true" />
+      <created>1699142411851</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1699142411851</updated>
+    </task>
+    <task id="LOCAL-00013" summary="feat: config queue payment">
+      <option name="closed" value="true" />
+      <created>1699319919546</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1699319919546</updated>
+    </task>
+    <task id="LOCAL-00014" summary="feat: config queue payment">
+      <option name="closed" value="true" />
+      <created>1699320128308</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1699320128308</updated>
+    </task>
+    <task id="LOCAL-00015" summary="feat: config status reserva">
+      <option name="closed" value="true" />
+      <created>1699404108695</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1699404108695</updated>
+    </task>
+    <task id="LOCAL-00016" summary="feat: rollback ok">
+      <option name="closed" value="true" />
+      <created>1699404290958</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1699404290958</updated>
+    </task>
+    <task id="LOCAL-00017" summary="feat: config consumer ConsumerPaymentsQueue">
+      <option name="closed" value="true" />
+      <created>1699405684247</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1699405684247</updated>
+    </task>
+    <task id="LOCAL-00018" summary="feat: arrumando rollback pagamentos">
+      <option name="closed" value="true" />
+      <created>1699410319211</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1699410319211</updated>
+    </task>
+    <task id="LOCAL-00019" summary="fix: conversando com geral">
+      <option name="closed" value="true" />
+      <created>1699419383629</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1699419383629</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: add config inicial projeto" />
+    <MESSAGE value="feat: config" />
+    <MESSAGE value="feat: config repository" />
+    <MESSAGE value="feat: config properties" />
+    <MESSAGE value="feat: init dev Get produtos" />
+    <MESSAGE value="feat: init cache redis" />
+    <MESSAGE value="fix: desc cache" />
+    <MESSAGE value="fix: add value product" />
+    <MESSAGE value="fix: save reserva" />
+    <MESSAGE value="feat: config queue payment" />
+    <MESSAGE value="feat: config status reserva" />
+    <MESSAGE value="feat: rollback ok" />
+    <MESSAGE value="feat: config consumer ConsumerPaymentsQueue" />
+    <MESSAGE value="feat: arrumando rollback pagamentos" />
+    <MESSAGE value="fix: conversando com geral" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: conversando com geral" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/reservasDeViagensInventario/src/main/java/com/reserva/stock/service/impl/ReserveServiceImpl.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/reservasDeViagensInventario/src/main/java/com/reserva/stock/adapters/in/ReserveController.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/reservasDeViagensInventario/src/main/java/com/reserva/stock/adapters/event/RabbitMQPaymentProducer.java</url>
+          <line>11</line>
+          <properties field="exchange" class="com.reserva.stock.adapters.event.RabbitMQPaymentProducer" />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/reservasDeViagensFinanceiro/src/main/java/br/com/reservasDeViagensFinanceiro/rabbitmq/producer/RabbitMQProducer.java</url>
+          <line>11</line>
+          <properties field="exchange" class="br.com.reservasDeViagensFinanceiro.rabbitmq.producer.RabbitMQProducer" />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/reservasDeViagensFinanceiro/src/main/java/br/com/reservasDeViagensFinanceiro/rabbitmq/producer/RabbitMQProducer.java</url>
+          <line>14</line>
+          <properties field="keyReserva" class="br.com.reservasDeViagensFinanceiro.rabbitmq.producer.RabbitMQProducer" />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.Integer" memberName="value" />
+        <PinnedItemInfo parentTag="com.reserva.stock.adapters.out.repository.entities.ProductReserveEntity" memberName="id" />
+        <PinnedItemInfo parentTag="com.reserva.stock.adapters.out.repository.entities.ReserveEntity" memberName="dataReserva" />
+        <PinnedItemInfo parentTag="java.lang.String" memberName="value" />
+        <PinnedItemInfo parentTag="com.reserva.stock.adapters.out.repository.entities.ProductEntity" memberName="availableQuantity" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
